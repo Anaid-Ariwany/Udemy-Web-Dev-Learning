@@ -2,16 +2,22 @@
 
 This repository contains exercises (if any), small projects, and notes completed while following **[Udemy: The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)** curriculum.
 
+
 **⚠️⚠️⚠️ Major projects are extracted into standalone repositories. ⚠️⚠️⚠️**
+
 
 ## Sections/ Folders
 - [HTML](HTML)
 - [CSS](CSS)
 
 ## Projects List
-**[Marathon Form]([HTML/Projects/Marathon Form/](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form))**, **[Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
+Click any project to open it.
+**[Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form))**, **[Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
+
 
 ### HTML Projects
+Click any of the images to open the project.
+
 <table align="left">
   <tr>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
