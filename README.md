@@ -7,17 +7,18 @@ This repository contains exercises (if any), small projects, and notes completed
 
 
 ## Sections/ Folders
+_Click any section to open it on the repo._
 - [HTML](HTML)
 - [CSS](CSS)
 
 ## Projects List
-Click any project to open it.
+_Click any project to open its folder on the repo._
 
-**[Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form)**, **[Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
+**1. [Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form)**, **2. [Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
 
 
 ## The Projects
-Click any of the images to open the project.
+_Click any of the images to open the project._
 
 <table align="left">
   <tr>
