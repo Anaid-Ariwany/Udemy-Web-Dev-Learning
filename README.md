@@ -9,7 +9,7 @@ This repository contains exercises (if any), small projects, and notes completed
 - [CSS](CSS)
 
 ## Projects List
-**MArathon Form**, **Photo Blog**
+**[Marathon Form]([HTML/Projects/Marathon Form/](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form))**, **[Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
 
 ### HTML Projects
 <table align="left">
@@ -24,7 +24,7 @@ This repository contains exercises (if any), small projects, and notes completed
         />
       </a>
       <br /><br />
-      <strong>[Marathon Form](HTML/Projects/Marathon Form/)</strong>
+      <strong>Marathon Form</strong>
     </td>
     <td align="center" style="padding: 16px; border-radius: 5rem;">
       <a href="CSS/Projects/Photo Blog/">
@@ -36,7 +36,7 @@ This repository contains exercises (if any), small projects, and notes completed
         />
       </a>
       <br /><br />
-      <strong>[Photo Blog](CSS/Projects/Photo Blog/)</strong>
+      <strong>Photo Blog</strong>
     </td>
   </tr>
 </table>
