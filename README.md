@@ -16,7 +16,7 @@ Click any project to open it.
 **[Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form)**, **[Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
 
 
-### HTML Projects
+## The Projects
 Click any of the images to open the project.
 
 <table align="left">
