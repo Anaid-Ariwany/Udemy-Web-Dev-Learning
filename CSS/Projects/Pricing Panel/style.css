@@ -1,0 +1,174 @@
+/* general styles */
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    background-color: #539efc;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+img {
+    width: 15rem;
+}
+
+h1 {
+    color: #0664EC;
+    font-weight: 700;
+    ;
+}
+
+h2 {
+    color: #878787;
+    font-weight: 600;
+    margin-bottom: 3rem;
+}
+
+p {
+    color: #426fb3;
+    text-align: center;
+}
+
+hr {
+    width: 100%;
+    border: 0.5px solid #C4C4C4;
+    margin: 1rem 0;
+}
+
+button {
+    border-radius: 0.6rem;
+    padding: 0.7rem 2.5rem;
+    font-weight: 500;
+    font-size: 1.1rem;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+/* general card */
+.card {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 4rem;
+    margin-top: 5rem;
+    border-radius: 1rem;
+    gap: 2rem;
+    max-width: fit-content;
+}
+
+/* individual divs */
+.personalDiv,
+.smallTeamDiv,
+.enterpriseDiv {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    max-width: 30%;
+}
+
+.personalDiv,
+.smallTeamDiv {
+    border-right: 1px solid #C4C4C4;
+}
+
+.noBackButton {
+    background-color: transparent;
+    border: 2px solid #C4C4C4;
+    color: #426fb3;
+}
+
+.backButton {
+    background-color: #0664EC;
+    color: #FFFFFF;
+}
+
+
+/* responsive design */
+/* small screen less than 500px */
+@media (max-width: 500px) {
+    .card {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        margin: 2rem 0;
+        gap: 1.5rem;
+        min-height: 80%;
+    }
+
+    .personalDiv,
+    .smallTeamDiv,
+    .enterpriseDiv {
+        max-width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #C4C4C4;
+        padding-bottom: 1.5rem;
+    }
+
+    .enterpriseDiv {
+        border-bottom: none;
+    }
+}
+
+/* medium screens between 501px and 1000px */
+@media (min-width: 501px) and (max-width: 1000px) {
+    .card {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem;
+        margin: 2rem 0;
+        gap: 2rem;
+        min-height: 80%;
+    }
+
+    .personalDiv,
+    .smallTeamDiv,
+    .enterpriseDiv {
+        max-width: 45%;
+        border-right: none;
+        border-bottom: 1px solid #C4C4C4;
+        padding-bottom: 1.5rem;
+    }
+
+    .enterpriseDiv {
+        border-bottom: none;
+    }
+}
+
+/* larger screens above 1000px */
+@media (min-width: 1001px) {
+    .card {
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        padding: 2rem 4rem;
+        margin: 5rem 2rem;
+        gap: 2rem;
+        min-height: 80%;
+        min-width: fit-content;
+    }
+
+    .personalDiv,
+    .smallTeamDiv,
+    .enterpriseDiv {
+        max-width: 30%;
+        border-right: none;
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+
+    .smallTeamDiv {
+        border-right: 1px solid #C4C4C4;
+    }
+
+    .personalDiv {
+        border-right: 1px solid #C4C4C4;
+    }
+}
