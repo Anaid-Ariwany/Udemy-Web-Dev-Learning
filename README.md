@@ -14,7 +14,9 @@ _Click any section to open it on the repo._
 ## Projects List
 _Click any project to open its folder on the repo._
 
-**1. [Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form)**, **2. [Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
+**1. [Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form)**  **2. [Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
+
+**3. [Pricing Panel](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Pricing%20Panel)**
 
 
 ## The Projects
@@ -46,6 +48,22 @@ _Click any of the images to open the project._
       <br /><br />
       <strong>Photo Blog</strong>
     </td>
+  </tr>
+  
+  <tr>
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="CSS/Projects/Pricing Panel/">
+        <img 
+          src="CSS/Projects/Pricing Panel/websitePreview.png"
+          width="420"
+          style="border-radius: 5rem;"
+          alt="Pricing Panel"
+        />
+      </a>
+      <br /><br />
+      <strong>Pricing Panel</strong>
+    </td>
+    
   </tr>
 </table>
 
