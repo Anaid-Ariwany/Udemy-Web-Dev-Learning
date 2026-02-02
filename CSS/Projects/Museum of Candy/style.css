@@ -1,3 +1,47 @@
 body {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
     margin: 0;
+    background-color: #F5D9D5;
+}
+
+p {
+    text-transform: capitalize;
+    color: #F4BECC;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    padding: 0 7rem;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 3rem;
+}
+
+
+.navbar .nav-link.text-white:hover {
+    color: #EA2030 !important;
+}
+
+.textDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar.scrolled {
+    background: rgb(222, 192, 222);
+    transition: background 500ms;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    padding: 0 0 4.5rem 0;
 }
