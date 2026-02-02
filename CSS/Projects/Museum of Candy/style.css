@@ -17,15 +17,16 @@ p {
 
 h2 {
     font-weight: 300;
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
-
 
 .navbar .nav-link.text-white:hover {
     color: #EA2030 !important;
 }
 
-.textDiv {
+
+.textDiv,
+.textDiv1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -44,4 +45,89 @@ h2 {
 
 section {
     padding: 0 0 4.5rem 0;
+}
+
+/* responsive design */
+/* screens larger than 1139px */
+@media (min-width: 1139px) {
+
+    .textDiv1,
+    .textDiv2 {
+        width: 50%;
+    }
+
+    .textDiv1 {
+        padding: 4rem 6rem 0 6rem;
+    }
+
+    .textDiv1 h1 {
+        font-size: 3rem;
+    }
+}
+
+/* screens larger than 992px */
+@media (min-width: 992px) and (max-width: 1139px) {
+
+    .textDiv1,
+    .textDiv2 {
+        width: 50%;
+    }
+
+    .textDiv1 {
+        padding: 4rem 3rem 0 3rem;
+    }
+
+    .textDiv1 h1 {
+        font-size: 2.5rem;
+    }
+}
+
+/* screens bigger than 767 and smaller than 991px */
+@media (min-width: 768px) and (max-width: 992px) {
+    .textDiv1 {
+        display: none !important;
+    }
+
+    .textDiv2 {
+        width: 100% !important;
+    }
+
+    .icon {
+        display: none !important;
+    }
+
+    body {
+        margin: 0;
+    }
+
+    p {
+        padding: 0 2rem;
+        font-size: 1.2rem;
+        letter-spacing: 1px;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+}
+
+/* screens smaller than 767px */
+@media (max-width: 767px) {
+    .textDiv1 {
+        display: none !important;
+    }
+
+    .icon {
+        display: none !important;
+    }
+
+    p {
+        padding: 0 2rem 2rem;
+        font-size: 1rem;
+        letter-spacing: 1px;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
 }
