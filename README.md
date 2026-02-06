@@ -10,13 +10,14 @@ This repository contains exercises (if any), small projects, and notes completed
 _Click any section to open it on the repo._
 - [HTML](HTML)
 - [CSS](CSS)
+- [JavaScript](JavaScript)
 
 ## Projects List
 _Click any project to open its folder on the repo._
 
 **1. [Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form)**    **2. [Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
 
-**3. [Pricing Panel](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Pricing%20Panel)**    **3. [Museum of Candy](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Museum%20of%20Candy)**
+**3. [Pricing Panel](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Pricing%20Panel)**    **4. [Museum of Candy](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Museum%20of%20Candy)**
 
 
 ## The Projects
