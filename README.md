@@ -5,6 +5,8 @@ This repository contains exercises (if any), small projects, and notes completed
 
 **⚠️⚠️⚠️ Major projects are extracted into standalone repositories. ⚠️⚠️⚠️**
 
+**⚠️⚠️⚠️ All notes materials like pdfs have been gitignored for copyright reasons. ⚠️⚠️⚠️**
+
 
 ## Sections/ Folders
 _Click any section to open it on the repo._
