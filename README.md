@@ -88,7 +88,7 @@ _Click any of the images to open the project._
     <td align="center" style="padding: 16px; border-radius: 5rem;">
       <a href="JavaScript/Projects/ToDo List/">
         <img 
-          src="JavaScript/Projects/ToDo List/assets/websitePreview.png"
+          src="JavaScript/Projects/ToDo List/websitePreview.png"
           width="420"
           style="border-radius: 5rem;"
           alt="ToDo List"
