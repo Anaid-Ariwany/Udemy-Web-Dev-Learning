@@ -19,7 +19,11 @@ _Click any project to open its folder on the repo._
 
 **1. [Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form)**    **2. [Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
 
+
 **3. [Pricing Panel](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Pricing%20Panel)**    **4. [Museum of Candy](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Museum%20of%20Candy)**
+
+
+**5. [ToDo List](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/JavaScript/Projects/ToDo%20List)**
 
 
 ## The Projects
@@ -77,6 +81,21 @@ _Click any of the images to open the project._
       </a>
       <br /><br />
       <strong>Museum of Candy</strong>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="JavaScript/Projects/ToDo List/">
+        <img 
+          src="JavaScript/Projects/ToDo List/assets/websitePreview.png"
+          width="420"
+          style="border-radius: 5rem;"
+          alt="ToDo List"
+        />
+      </a>
+      <br /><br />
+      <strong>ToDo List</strong>
     </td>
   </tr>
 </table>
