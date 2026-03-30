@@ -10,7 +10,7 @@ const projects = [
         name: "Photo Blog",
         description: "A simple photo blog layout implemented with CSS Grid.",
         image: "assets/photoBlog.webp",
-        live: "",
+        live: "https://anaid-ariwany.github.io/Udemy-Web-Dev-Learning/CSS/Projects/Photo%20Blog/",
         github: "https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog"
     },
     {

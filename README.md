@@ -1,102 +1,36 @@
-# Udemy: The Web Developer Bootcamp – Learning Repository
+# Udemy: The Web Developer Bootcamp - Learning Repository
 
-This repository contains exercises (if any), small projects, and notes completed while following **[Udemy: The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)** curriculum.
+[Live Site](https://anaid-ariwany.github.io/Udemy-Web-Dev-Learning/)
 
+This repository contains all the projects and exercises completed during the Udemy course "The Web Developer Bootcamp" by Colt Steele. It serves as a personal record of my progress and a showcase of the skills I've acquired along the way.
 
-**⚠️⚠️⚠️ Major projects are extracted into standalone repositories. ⚠️⚠️⚠️**
+### Learning Path
+The course covers a wide range of topics essential for becoming a proficient web developer, including:
+- HTML: Structure and semantics of web pages
+- CSS: Styling and layout techniques
+- JavaScript: Programming fundamentals and DOM manipulation
+- Node.js: Server-side JavaScript development
+- Express: Building web applications with Node.js
+- MongoDB: Database management and integration
+- React: Front-end library for building user interfaces
 
-**⚠️⚠️⚠️ All notes materials like pdfs have been gitignored for copyright reasons. ⚠️⚠️⚠️**
+### Repository Structure
+The repository is organized into folders based on the technologies covered in the course:
+- `HTML`: Contains all HTML projects and exercises.
+- `CSS`: Contains all CSS projects and exercises.
+- `JavaScript`: Contains all JavaScript projects and exercises.
+- `Node.js`: Contains all Node.js projects and exercises.
+- `Express`: Contains all Express projects and exercises.
+- `MongoDB`: Contains all MongoDB projects and exercises.
+- `React`: Contains all React projects and exercises.
 
+### Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- MongoDB
+- React.js
 
-## Sections/ Folders
-_Click any section to open it on the repo._
-- [HTML](HTML)
-- [CSS](CSS)
-- [JavaScript](JavaScript)
-
-## Projects List
-_Click any project to open its folder on the repo._
-
-**1. [Marathon Form](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/HTML/Projects/Marathon%20Form)**    **2. [Photo Blog](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Photo%20Blog)**
-
-
-**3. [Pricing Panel](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Pricing%20Panel)**    **4. [Museum of Candy](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/CSS/Projects/Museum%20of%20Candy)**
-
-
-**5. [ToDo List](https://github.com/Anaid-Ariwany/Udemy-Web-Dev-Learning/tree/main/JavaScript/Projects/ToDo%20List)**
-
-
-## The Projects
-_Click any of the images to open the project._
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="HTML/Projects/Marathon Form/">
-        <img 
-          src="HTML/Projects/Marathon Form/marathonWebsite.png"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Marathon Form"
-        />
-      </a>
-      <br /><br />
-      <strong>Marathon Form</strong>
-    </td>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="CSS/Projects/Photo Blog/">
-        <img 
-          src="CSS/Projects/Photo Blog/websiteImage.png"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Photo Blog"
-        />
-      </a>
-      <br /><br />
-      <strong>Photo Blog</strong>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="CSS/Projects/Pricing Panel/">
-        <img 
-          src="CSS/Projects/Pricing Panel/websitePreview.png"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Pricing Panel"
-        />
-      </a>
-      <br /><br />
-      <strong>Pricing Panel</strong>
-    </td>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="CSS/Projects/Museum of Candy/">
-        <img 
-          src="CSS/Projects/Museum of Candy/assets/desiredOutcome/desiredOutcome1.png"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Museum of Candy"
-        />
-      </a>
-      <br /><br />
-      <strong>Museum of Candy</strong>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="JavaScript/Projects/ToDo List/">
-        <img 
-          src="JavaScript/Projects/ToDo List/websitePreview.png"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="ToDo List"
-        />
-      </a>
-      <br /><br />
-      <strong>ToDo List</strong>
-    </td>
-  </tr>
-</table>
 
